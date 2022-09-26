@@ -46,18 +46,5 @@
     "controllerid1": "rbxassetid://10893378257",
     "side": 1,
     "sideid1": "rbxassetid://9390725375"
-  },
-  {
-    "number": 5,
-    "route": "11Z",
-    "front": 3,
-    "frontid1": "rbxassetid://9390710082",
-    "frontid2": "rbxassetid://10700495242",
-    "frontid3": "rbxassetid://10700524304",
-    "controllerid1": "rbxassetid://10893378644",
-    "controllerid2": "rbxassetid://10893378644",
-    "controllerid3": "rbxassetid://10893375552",
-    "side": 1,
-    "sideid1": "rbxassetid://9390725375"
   }
 ]
