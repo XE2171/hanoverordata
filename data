@@ -131,5 +131,32 @@
     "controllerid1": "rbxassetid://10893398576",
     "side": 1,
     "sideid1": "rbxassetid://10699114137"
+  },
+  {
+    "number": 13
+    "route": "PLG",
+    "front": 1,
+    "frontid1": "rbxassetid://10783069914",
+    "controllerid1": "rbxassetid://10893398828",
+    "side": 1,
+    "sideid1": "rbxassetid://10699114137"
+  },
+  {
+    "number": 14
+    "route": "SSD",
+    "front": 1,
+    "frontid1": "rbxassetid://11042107025",
+    "controllerid1": "rbxassetid://11042139134",
+    "side": 1,
+    "sideid1": "rbxassetid://11042100304"
+  },
+  {
+    "number": 15
+    "route": "SPD",
+    "front": 1,
+    "frontid1": "rbxassetid://10783070175",
+    "controllerid1": "rbxassetid://10893399291",
+    "side": 1,
+    "sideid1": "rbxassetid://10699114137"
   }
 ]
