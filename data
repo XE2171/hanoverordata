@@ -61,11 +61,9 @@
   {
     "number": 6,
     "route": "30S",
-    "front": 2,
+    "front": 1,
     "frontid1": "rbxassetid://11081253568",
-    "frontid2": "rbxassetid://11081254217",
     "controllerid1": "rbxassetid://11081244174",
-    "controllerid2": "rbxassetid://11081247648",
     "side": 1,
     "sideid1": "rbxassetid://11081257344"
   }
